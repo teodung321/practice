@@ -1,3 +1,3 @@
 int main{
-	hello
+	hello.print("hello");
 }
